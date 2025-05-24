@@ -1,0 +1,5 @@
+flutter:
+  assets:
+    - assets/placeholder1.png
+    - assets/placeholder2.png
+    - assets/placeholder3.png
